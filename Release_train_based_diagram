@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T18:44:05.275Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nvruCjA58RzgRY5ZcmCI" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-08T18:44:35.945Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="LzA1dAN4Xcj2bSHdBj7O" version="21.3.2" type="github">
   <diagram name="Page-1" id="aj-Z5rTBuKiES1KBumpY">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="none" math="0" shadow="0">
       <root>
@@ -167,8 +167,8 @@
         <mxCell id="Yl62CNGaRxpKI8XX2nM--67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="522" y="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yl62CNGaRxpKI8XX2nM--69" value="Release branch would be deployed to bt" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="10" width="240" height="30" as="geometry" />
+        <mxCell id="Yl62CNGaRxpKI8XX2nM--69" value="Release branch would be deployed to prodcution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="10" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yl62CNGaRxpKI8XX2nM--75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Yl62CNGaRxpKI8XX2nM--72" target="Yl62CNGaRxpKI8XX2nM--73">
           <mxGeometry relative="1" as="geometry" />
